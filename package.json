@@ -1,0 +1,19 @@
+{
+  "name": "expresslyrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "4lyrics": "^1.1.61",
+    "cors": "^2.8.5",
+    "expres": "0.0.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "node-fetch": "^2.6.0"
+  }
+}
